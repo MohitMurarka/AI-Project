@@ -1,0 +1,13 @@
+streamlit
+fpdf
+pdfplumber
+pytesseract
+pdf2image
+Pillow
+nltk
+scikit-learn
+langchain
+langchain-groq
+groq
+pydantic
+numpy

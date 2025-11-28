@@ -1,0 +1,41 @@
+[
+  {
+    "page": "[p1 1]-[p2 8]",
+    "citation_start": "Computer Networks Assignment",
+    "citation_end": "Equippedwithsensors(ultrasonic,infrared),thesebinsmonitorfilllevelsandtransmitdata",
+    "text": "comput network assign cours titl name rollno introduct submissiond challeng due rapid popul growth increas wast gener tradit garbag bin lead ineffici overflow wast environment pollut smart wast manag system power internet thing iot offer sustain data driven solut issu embed sensor wast bin need empti data transmit central control system us rout optim algorithm dispatch garbag truck bin readi collect approach save fuel reduc carbon emiss also enhanc oper effici cleanli citi iot integr wast manag becom predict rather reactiv enabl proactiv schedul reduc unnecessari trip improv servic qualiti ultim smart wast manag effici r e urban area gener enorm volum solid wast daili due popul growth chang consumpt habit tradit wast manag whichleadsto sever ineffici overflow bin unsanitari condit environment pollut manual wast collect process consum signific fuel labor also contribut irregular servic deliveri increas greenhous ga emiss mani citi wast bin either empti frequent wast resourc late caus public health hazard unpleas condit residenti commerci area furthermor inadequ infrastructur lack data monitor prevent author optim wast collect rout schedul ad unnecessari oper smart sensor n ultrason infrar",
+    "heading": "[No heading extracted]",
+    "contains_argument": "no",
+    "summary": "[No summary extracted]",
+    "polarity": "N/A",
+    "source": "polarbrief v1",
+    "timestamp": "2025-10-27T15:11:37.947178",
+    "final_score": 37.6
+  },
+  {
+    "page": "[p2 9]-[p4 2]",
+    "citation_start": "for real-time tracking. This helps prevent overflow and notifies collection services only",
+    "citation_end": " Cost-effective:",
+    "text": "real time track help prevent overflow notifi collect servic usingr timebindata minim fuel consumpt labor focus collect effort bin recycl sourc process facil improv recycl rate reduc landfillload gp sensor base track wast contain enabl monitor locat use condit support time mainten theft prevent ensur bin remain mobil platform provid real public andwast worker includ collect schedul rout chang alert public awar campaign facilit p crliendg habit h red detect incipi congest earli monitor averag queue size drop packet base probabilist algorithm prevent bia bursti traffic reduc tcp global dynam adjust drop probabl gradual increas queue length lead rdelay mnoarkbiinag manag traffic way avoid unfair sensor inductiveloop radar major arteri detect vehicl count speed congest hotspot environment weather sensor feed transmit secur wireless fiber oapi advanc algorithm process sensor data calcul optim green light durat phase chang reliev pressur congest surg real time rerout driver use digit signboard mobil app minim impact observ red aqm unlik redbegin queuesiz delay red scenario advantag cost effect",
+    "heading": "[No heading extracted]",
+    "contains_argument": "no",
+    "summary": "[No summary extracted]",
+    "polarity": "N/A",
+    "source": "polarbrief v1",
+    "timestamp": "2025-10-27T15:11:37.947178",
+    "final_score": 40.0
+  },
+  {
+    "page": "[p4 3]-[p5 8]",
+    "citation_start": "No need for large-scale civil works or road expansions, saving",
+    "citation_end": "VII. WSP.\"DesigningIntelligentTransportationSystems.\"2025.",
+    "text": "need larg scale civil work road expans save irnegaddiysr easili upgrad ad new sensor updat reduc emiss fuel wast decreas idl time aimndpsrtoovp dansda fgeotytr affic faster respons accid hazard condit due real drawback limit depend technolog system reliabl depend continu sensor accuraci cybersecur network stabil failur outag disrupt traffic e arerequiredto network use video track technolog may rais privaci issu ai system may inadvert priorit certain rout time focusoniot anddata driven monitor sendreal fuelusag andemiss rfid account addit andoptim reducecost andimprov engag manag cost health refer inrix ii lyt ai iii iv v whatisanit vi sciencedirect vii wsp",
+    "heading": "[No heading extracted]",
+    "contains_argument": "no",
+    "summary": "[No summary extracted]",
+    "polarity": "N/A",
+    "source": "polarbrief v1",
+    "timestamp": "2025-10-27T15:11:37.947178",
+    "final_score": 0.0
+  }
+]
